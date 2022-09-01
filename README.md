@@ -4,7 +4,8 @@
   
 
 ### 🙋‍♀️helllo                                         
-✍️ 大家好，我是hanmy，目前就读于石家庄铁道大学软件工程专业，热爱计算机和互联网事业，立志成为一名优秀的程序员！
+✍️  大家好，我是hanmy，目前就读于石家庄铁道大学软件工程专业，热爱计算机和互联网事业，立志成为一名优秀的程序员！
+
 We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
 
 我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
@@ -38,6 +39,9 @@ We're making the world a better place. Through constructing elegant hierarchies 
 ![decription](https://camo.githubusercontent.com/6af3537d46d10d2d597651c818d97729dbc8e9afbfde0d940fbd967dc190fbc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d666666)
 ![decription](https://camo.githubusercontent.com/a18c3bf7b402c0386580a81653b2fd1d760e62bbd35c8ead6727c741c70dae09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d70696e6b3f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
 
+<div align="left">
+align="center" style="width: 30%" />
+</div>  
 ![decription](https://camo.githubusercontent.com/b3904dc72cb7b7c70cbd7d8f08420fc5bbf08ef606b1a71891b8a097670873e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f67697068792e676966)
 ![decription](https://camo.githubusercontent.com/72fd54faa8a39aed97354ea788e55524a47c30e1da23dd321331260ab133a2b5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f67697068792e676966)
 ![decription](https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270)
